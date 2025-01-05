@@ -12,7 +12,7 @@ Build an <b>AI Compare Chatbot Playground App</b> with Python, Streamlit, and Gr
 
 ### Follow the step-by-step tutorial here:
 
-<a href="https://youtu.be/JVgTTsTMW5c?si=2-ccEDChUaTdyUGg">
+<a href="https://youtu.be/1Vd-6qmmeao">
     <img src="./yt_logo_rgb_dark.png" alt="youtube logo"/>
 </a>
 
