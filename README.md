@@ -1,8 +1,6 @@
 
 # AI Model Compare Chatbot Playground
 
-![Chatbot](<./AI-Stocks-Application.png>)
-
 ## Live Project Link
 <a href="https://ai-model-compare.streamlit.app/" target="_blank">View Live Project</a>
 
@@ -10,18 +8,12 @@
 
 Build an <b>AI Compare Chatbot Playground App</b> with Python, Streamlit, and Groq.
 
-### Follow the step-by-step tutorial here:
-
-<a href="https://youtu.be/1Vd-6qmmeao">
-    <img src="./yt_logo_rgb_dark.png" alt="youtube logo"/>
-</a>
-
 ### Cloning 
 
 ###### From your terminal:
 
 1. Clone this repo with:
-   `git clone https://github.com/AbeTavarez/Chatbot-Compare-Playground.git`
+   `git clone https://github.com/bigman1208000/Chatbot-Compare-Playground.git`
 
 2. Change into the project folder:
    `cd Chatbot-Compare-Playground`
@@ -37,11 +29,6 @@ Build an <b>AI Compare Chatbot Playground App</b> with Python, Streamlit, and Gr
 
 5. Run the app:
    `streamlit run app.py`
-
-<b>Don't forget to leave me a start and a like, Thanks for your support!
-</b> 
-
-Happy Hacking!
 
 ### Docs
 
